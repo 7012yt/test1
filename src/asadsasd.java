@@ -5,7 +5,7 @@ public class asadsasd {
         return x;
     }
 
-    public void setX(int x) {
-        this.x = x;
+    public void setX(int y) {
+        this.x = y;
     }
 }
