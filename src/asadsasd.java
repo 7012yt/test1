@@ -1,6 +1,6 @@
 public class asadsasd {
     public int x;
-
+    private  String pp;
     public int getX() {
         return x;
     }
